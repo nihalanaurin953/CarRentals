@@ -18,28 +18,9 @@ To get started with CARRENTALS, follow these steps:
 - Node.js installed
 - MongoDB installed and running
 
-### Installation
-1. Clone the repository
-   ```sh
-   git clone https://github.com/SAJUSAJADH/CARRENTALS.git
-   
-2. Navigate to the project directory
- 
-   cd CARRENTALS
-   
-4.Install dependencies
 
-  npm install
 
-### Usage
 
-1. Start the MongoDB server
-
-2. Run the application
-
-  npm start
-
-3. Open your browser and navigate to http://localhost:3000
 
 ### Features
 
