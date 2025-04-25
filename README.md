@@ -1,8 +1,7 @@
-# CARRENTALS
+# Drive Ease 🚘
 
-![CARRENTALS](https://sajadh.vercel.app/assets/carrental2-97241127.jpeg)
+A modern car rental platform built with the MERN stack — search, compare, and reserve vehicles with ease.
 
-CARRENTALS is a MERN stack project developed using Vite. It's a car rental website that provides an online platform for users to rent cars for personal or business use. The website offers features for searching, comparing, and reserving cars.
 
 ## Built With
 - MongoDB
